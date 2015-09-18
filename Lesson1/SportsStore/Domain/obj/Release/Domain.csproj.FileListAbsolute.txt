@@ -1,0 +1,5 @@
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\Domain\bin\Release\Domain.dll
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\Domain\bin\Release\Domain.pdb
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\Domain\obj\Release\Domain.dll
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\Domain\obj\Release\Domain.pdb
