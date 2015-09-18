@@ -22,3 +22,6 @@ C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\A
 C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\LessonASPNET\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
 C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\LessonASPNET\Tests\obj\Debug\Tests.dll
 C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\LessonASPNET\Tests\obj\Debug\Tests.pdb
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\LessonASPNET\Tests\bin\Debug\Moq.dll
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\LessonASPNET\Tests\bin\Debug\Moq.pdb
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\LessonASPNET\Tests\bin\Debug\Moq.xml
