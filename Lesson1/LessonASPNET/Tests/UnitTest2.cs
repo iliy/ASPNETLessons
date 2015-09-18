@@ -54,6 +54,7 @@ namespace Tests
 
             var target = new LinqValueCalculator(mock.Object);
 
+            // Создание тестируемых значений
             decimal FiveDollarsDiscount = target.ValueProducts(createProduct(5));
             decimal TenDollarsDiscount = target.ValueProducts(createProduct(10));
             decimal FiftenDollarsDiscount = target.ValueProducts(createProduct(50));
