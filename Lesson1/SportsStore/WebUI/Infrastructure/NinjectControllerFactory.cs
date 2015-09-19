@@ -8,6 +8,7 @@ using Ninject;
 using Moq;
 using Domain.Abstruct;
 using Domain.Entities;
+using Domain.Concrete;
 
 namespace WebUI.Infrastructure
 {
@@ -28,16 +29,7 @@ namespace WebUI.Infrastructure
 
         private void AddBindings()
         {
-            Mock<IProductRepository> mock = new Mock<IProductRepository>();
-            
-            mock.Setup(m => m.Products).Returns(new List<Product>()
-            {
-                new Product { Name = "Football", Price = 25 },           
-                new Product { Name = "Surf board", Price = 179 },           
-                new Product { Name = "Running shoes", Price = 95 } 
-            }.AsQueryable());
-
-            ninjectKernel.Bind<IProductRepository>().ToConstant(mock.Object);
+            ninjectKernel.Bind<IProductRepository>().To<EFProductRepository>();
         }
     }
 }

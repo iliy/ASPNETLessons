@@ -24,3 +24,5 @@ C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\A
 C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\UnitTests\bin\Debug\EntityFramework.xml

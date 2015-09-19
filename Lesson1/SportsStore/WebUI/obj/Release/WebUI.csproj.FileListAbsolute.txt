@@ -29,3 +29,7 @@ C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\A
 C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\WebUI\obj\Release\WebUI.csprojResolveAssemblyReference.cache
 C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\WebUI\obj\Release\WebUI.dll
 C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\WebUI\obj\Release\WebUI.pdb
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\WebUI\bin\EntityFramework.dll
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\WebUI\bin\EntityFramework.xml
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\nobos\OneDrive\Документы\Visual Studio 2013\Projects\Lessons\ASPNET\Lesson1\SportsStore\WebUI\bin\EntityFramework.SqlServer.xml
